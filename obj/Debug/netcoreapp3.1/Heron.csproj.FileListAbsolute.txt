@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Heron\bin\Debug\netcoreapp3.1\Heron.exe
+C:\Users\POSITIVO\Desktop\PC1\Heron\bin\Debug\netcoreapp3.1\Heron.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Heron\bin\Debug\netcoreapp3.1\Heron.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Heron\bin\Debug\netcoreapp3.1\Heron.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Heron\bin\Debug\netcoreapp3.1\Heron.dll
+C:\Users\POSITIVO\Desktop\PC1\Heron\bin\Debug\netcoreapp3.1\Heron.pdb
+C:\Users\POSITIVO\Desktop\PC1\Heron\obj\Debug\netcoreapp3.1\Heron.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Heron\obj\Debug\netcoreapp3.1\Heron.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Heron\obj\Debug\netcoreapp3.1\Heron.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Heron\obj\Debug\netcoreapp3.1\Heron.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Heron\obj\Debug\netcoreapp3.1\Heron.dll
+C:\Users\POSITIVO\Desktop\PC1\Heron\obj\Debug\netcoreapp3.1\Heron.pdb
+C:\Users\POSITIVO\Desktop\PC1\Heron\obj\Debug\netcoreapp3.1\Heron.genruntimeconfig.cache
